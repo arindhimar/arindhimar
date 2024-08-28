@@ -27,11 +27,9 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 - [GitHub](https://github.com/arindhimar)
 - [Instagram](https://www.instagram.com/arin_dhimar_/)
 
-### 😄 Pronouns:
-- He/Him
 
 ### ⚡ Fun fact:
-- I’m an NPTEL star and love coding as a hobby. I'm always eager to learn new technologies and enhance my skills.
+- I love coding as a hobby . I'm always eager to learn new technologies and enhance my skills.
 
 ---
 
