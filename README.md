@@ -47,10 +47,6 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 [![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=arindhimar)](https://www.geeksforgeeks.org/user/arindhimar/)
 ---
 
-### HackerRank:
-[![Hackerrank](https://badges.hackerrank.com/badge/arindhimar111)](https://www.hackerrank.com/arindhimar111)
----
-
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arin-dhimar/)
