@@ -44,7 +44,7 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 ---
 
 ### GeeksForGeeks:
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<arindhimar>)](<[YOUR_LINK_HERE](https://www.geeksforgeeks.org/user/arindhimar/)>)
+[![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=arindhimar)](https://www.geeksforgeeks.org/user/arindhimar/)
 ---
 
 ### HackerRank:
