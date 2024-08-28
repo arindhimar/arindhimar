@@ -44,11 +44,11 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 ---
 
 ### GeeksForGeeks:
-[![GFG Stats Card](https://gfg-stats-card.herokuapp.com/?user=arindhimar&theme=dark)](https://auth.geeksforgeeks.org/user/arindhimar/practice/)
+[![GeeksforGeeks](https://badges.geeksforgeeks.org/data/scoped/user/arindhimar)](https://auth.geeksforgeeks.org/user/arindhimar/practice/)
 ---
 
 ### HackerRank:
-[![Hackerrank Stats Card](https://hackerrank-stats-card.herokuapp.com/?username=arindhimar111&theme=dark)](https://www.hackerrank.com/arindhimar111)
+[![Hackerrank](https://badges.hackerrank.com/badge/arindhimar111)](https://www.hackerrank.com/arindhimar111)
 ---
 
 
