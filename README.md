@@ -39,8 +39,16 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 ---
 
 
-### LeetCode Showcase:
-![LeetCode Stats](https://leetcard.jacoblin.cool/arin_dhimar?theme=nord&font=Exo&ext=activity)
+### LeetCode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/arin_dhimar?theme=nord&font=Exo)
+---
+
+### GeeksForGeeks:
+[![GFG Stats Card](https://gfg-stats-card.herokuapp.com/?user=arindhimar&theme=dark)](https://auth.geeksforgeeks.org/user/arindhimar/practice/)
+---
+
+### HackerRank:
+[![Hackerrank Stats Card](https://hackerrank-stats-card.herokuapp.com/?username=arindhimar111&theme=dark)](https://www.hackerrank.com/arindhimar111)
 ---
 
 
