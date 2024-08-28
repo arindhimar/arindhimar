@@ -38,6 +38,12 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 
 ---
 
+
+### LeetCode Showcase:
+![LeetCode Stats](https://leetcard.jacoblin.cool/arin_dhimar?theme=nord&font=Exo&ext=activity)
+---
+
+
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arin-dhimar/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/arindhimar)
