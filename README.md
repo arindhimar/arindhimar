@@ -3,6 +3,11 @@
 I'm **Arin Dhimar**, a passionate developer with a keen interest in building impactful projects.
 
 ### 🔭 I’m currently working on:
+- **SayIt**(https://github.com/arindhimar/SayIt) - A Quote App that delivers daily inspiration and motivation to your phone. Key features include:
+  - Daily Quotes: Receive a fresh and motivational quote each day.
+  - Customizable Categories: Choose from various categories to get quotes that resonate with you.
+  - Social Media Integration: Share your favorite quotes directly to Facebook, Instagram, Twitter, Snapchat, and WhatsApp.
+  - Edge-to-Edge UI: Experience a modern, immersive design with edge-to-edge UI support.
 - [Bhartiya Sena Suraksha](https://github.com/arindhimar/bhartiya-sena-suraksha) - An app designed to enhance safety for tourists and soldiers in Jammu and Kashmir.
 - A responsive web application that displays product names and prices.
 
@@ -27,9 +32,8 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 - [GitHub](https://github.com/arindhimar)
 - [Instagram](https://www.instagram.com/arin_dhimar_/)
 
-
 ### ⚡ Fun fact:
-- I love coding as a hobby . I'm always eager to learn new technologies and enhance my skills.
+- I love coding as a hobby and I'm always eager to learn new technologies and enhance my skills.
 
 ---
 
@@ -38,15 +42,15 @@ I'm **Arin Dhimar**, a passionate developer with a keen interest in building imp
 
 ---
 
-
 ### LeetCode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arin_dhimar?theme=nord&font=Exo)
+
 ---
 
 ### GeeksForGeeks:
 [![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=arindhimar)](https://www.geeksforgeeks.org/user/arindhimar/)
----
 
+---
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arin-dhimar/)
