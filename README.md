@@ -3,7 +3,7 @@
 I'm **Arin Dhimar**, a passionate developer with a keen interest in building impactful projects.
 
 ### 🔭 I’m currently working on:
-- **SayIt**(https://github.com/arindhimar/SayIt) - A Quote App that delivers daily inspiration and motivation to your phone. Key features include:
+- [SayIt](https://github.com/arindhimar/SayIt) - A Quote App that delivers daily inspiration and motivation to your phone. Key features include:
   - Daily Quotes: Receive a fresh and motivational quote each day.
   - Customizable Categories: Choose from various categories to get quotes that resonate with you.
   - Social Media Integration: Share your favorite quotes directly to Facebook, Instagram, Twitter, Snapchat, and WhatsApp.
