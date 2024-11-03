@@ -3,29 +3,34 @@
 I'm **Arin Dhimar**, a passionate developer with a keen interest in building impactful projects.
 
 ### 🔭 I’m currently working on:
-- [SayIt](https://github.com/arindhimar/SayIt) - A Quote App that delivers daily inspiration and motivation to your phone. Key features include:
-  - Daily Quotes: Receive a fresh and motivational quote each day.
-  - Customizable Categories: Choose from various categories to get quotes that resonate with you.
-  - Social Media Integration: Share your favorite quotes directly to Facebook, Instagram, Twitter, Snapchat, and WhatsApp.
-  - Edge-to-Edge UI: Experience a modern, immersive design with edge-to-edge UI support.
-- [Bhartiya Sena Suraksha](https://github.com/arindhimar/bhartiya-sena-suraksha) - An app designed to enhance safety for tourists and soldiers in Jammu and Kashmir.
-- A responsive web application that displays product names and prices.
+- **[ANIMEX](https://github.com/arindhimar/VideoStreamingPlatform/tree/ANIMEX)** - An anime streaming platform providing a seamless experience for anime enthusiasts. Key features include:
+  - **Admin API** for content management, including episode uploads and genre data.
+  - **Progressive Loading** for anime news, enabling users to stay updated with the latest releases.
+  - **Responsive Design** for a smooth experience on all devices.
+  
+- **[SayIt](https://github.com/arindhimar/SayIt)** - A versatile Quote App designed to deliver daily doses of inspiration and motivation to its users. Features include:
+  - **Daily Quotes**: SayIt delivers fresh and thought-provoking quotes every day, designed to inspire and motivate.
+  - **Customizable Categories**: Users can choose from various categories like 'Life', 'Motivation', 'Happiness', and more to get quotes that resonate most.
+  - **Favorites & Notifications**: Allows users to save their favorite quotes and receive notifications for new daily quotes.
+  - **Social Media Integration**: Share inspiring quotes directly on popular platforms like Facebook, Instagram, Twitter, Snapchat, and WhatsApp.
+  - **Modern UI**: Edge-to-edge immersive design with a user-friendly interface for smooth navigation and interaction.
 
 ### 🌱 I’m currently learning:
 - Advanced front-end development techniques.
 - Backend integration and cloud services.
 
 ### 👯 I’m looking to collaborate on:
-- Open-source projects related to security surveillance.
+- Open-source projects related to streaming or anime content.
 - Innovative web and mobile applications.
 
 ### 🤔 I’m looking for help with:
-- Improving the UI/UX design of my projects.
-- Optimizing algorithms for better performance.
+- **UI/UX Enhancement**: I’m keen on learning advanced UI/UX techniques to improve the overall user experience for both mobile and web applications, particularly for streaming platforms like ANIMEX.
+- **Algorithm Optimization**: Assistance with efficient data retrieval, caching, and handling large datasets to improve app performance.
 
 ### 💬 Ask me about:
-- Web development, especially front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap.
-- My experiences in coding competitions like E Yantra and my journey as a finalist.
+- **Full-Stack Development**: I’m experienced with front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap, as well as backend frameworks like Flask.
+- **Project Development**: Insights on building responsive, user-centric applications, or my experiences with complex projects like ANIMEX and SayIt.
+- **Coding Competitions**: I was a finalist in E Yantra and other competitions, and I'm happy to share tips or experiences.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/arin-dhimar/)
