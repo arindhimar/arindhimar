@@ -1,0 +1,6 @@
+<svg width="200" height="20" viewBox="0 0 200 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="20" rx="10" fill="#ddd"/>
+  <rect width="130" height="20" rx="10" fill="#3498db"/>
+  <text x="190" y="15" font-family="Arial" font-size="12" fill="#333">65%</text>
+</svg>
+
