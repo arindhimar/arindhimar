@@ -1,132 +1,85 @@
-<h1 align="center">
-  Hi there, I'm Arin Dhimar! 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Arin%20Dhimar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Innovator%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" width="100%">
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Building+Impactful+Projects;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <a href="https://github.com/arindhimar">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Full-Stack+Developer;🌟+Passionate+about+Innovation;💡+Always+Learning&center=true&width=380&height=45">
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<details open>
+<summary><h2>🌈 Welcome to My Coding Universe!</h2></summary>
 
----
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🚀 About Me
+Hello there! 👋 I'm **Arin**, a passionate developer on a mission to turn ideas into reality through code. My journey in the tech world is fueled by curiosity and a desire to create impactful solutions.
 
-I'm a passionate developer with a keen interest in building impactful projects. From web applications to mobile apps, I love turning ideas into reality through code.
+- 🔭 Currently working on: **CommitBridge**, **ANIMEX**, **SayIt**, and **BookAura**
+- 🌱 Always learning: Advanced front-end techniques & cloud services
+- 👯 Open to collaborate on: Innovative web and mobile applications
+- 💬 Ask me about: Full-Stack Development, Project Management, or Coding Competitions
+- ⚡ Fun fact: I see coding not just as a job, but as an art form and a hobby!
 
-- 🔭 I'm currently working on several exciting projects
-- 🌱 I'm continuously learning and improving my skills
-- 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about Full-Stack Development and Project Management
-
----
-
-### 🛠️ Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<details>
-<summary><b>CommitBridge</b> - Streamlining Team Collaboration</summary>
-
-- 🔐 Profile Management with seamless authentication
-- 🌐 Social Media Integrations for sharing commits
-- 🔄 Automated Fetch Requests for real-time profile sync
-- 🎨 Interactive UI with Framer Motion animations
-- ⚡ Performance Optimizations for smooth UX
-
-[View Project](https://github.com/arindhimar/CommitBridge)
 </details>
 
 <details>
-<summary><b>ANIMEX</b> - Your Ultimate Anime Streaming Platform</summary>
+<summary><h2>🛠️ My Tech Arsenal</h2></summary>
 
-- 🎬 Admin API for content management
-- 📰 Progressive Loading for anime news
-- 📱 Responsive Design for all devices
+<div align="center">
 
-[View Project](https://github.com/arindhimar/VideoStreamingPlatform/tree/ANIMEX)
+| Front-End | Back-End | Tools & Frameworks |
+|:---------:|:--------:|:------------------:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=python,nodejs,flask" /> | <img src="https://skillicons.dev/icons?i=git,vscode,bootstrap" /> |
+
+</div>
+
 </details>
 
 <details>
-<summary><b>SayIt</b> - Daily Inspiration at Your Fingertips</summary>
+<summary><h2>🌟 Featured Projects</h2></summary>
 
-- 💬 Daily Quotes for motivation
-- 🎨 Customizable Categories
-- ❤️ Favorites & Notifications
-- 🌐 Social Media Integration
-- 🖼️ Modern, Immersive UI
+<div align="center">
 
-[View Project](https://github.com/arindhimar/SayIt)
+| Project | Description | Tech Stack |
+|:-------:|:-----------:|:----------:|
+| [CommitBridge](https://github.com/arindhimar/CommitBridge) | Streamlining team collaboration and code management | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" width="60" /> |
+| [ANIMEX](https://github.com/arindhimar/VideoStreamingPlatform/tree/ANIMEX) | Your ultimate anime streaming platform | <img src="https://skillicons.dev/icons?i=js,html,css" width="60" /> |
+| [SayIt](https://github.com/arindhimar/SayIt) | Daily inspiration at your fingertips | <img src="https://skillicons.dev/icons?i=react,firebase" width="40" /> |
+| [BookAura](https://github.com/arindhimar/BookAura) | Your literary haven with AI-powered features | <img src="https://skillicons.dev/icons?i=python,flask,tensorflow" width="60" /> |
+
+</div>
+
 </details>
 
 <details>
-<summary><b>BookAura</b> - Your Literary Haven</summary>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
-- 👥 Role-Based Access Control
-- 📚 Book Publishing & Management
-- 🤖 Automated Moderation with AI
-- 🗣️ Text-to-Speech Integration
-- 📌 Engagement Features
-- 🔒 Secure Authentication
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arindhimar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophy" align="middle" /> <br /> <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arindhimar&theme=algolia" width="100%" alt="Git profile details" align="middle" /> <br /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindhimar&theme=algolia" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arindhimar&theme=algolia&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div>
 
-[View Project](https://github.com/arindhimar/BookAura)
 </details>
 
----
-
-### 📊 My GitHub Stats
+<details>
+<summary><h2>🏆 Coding Achievements</h2></summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arindhimar&show_icons=true&theme=radical" alt="Arin Dhimar's GitHub stats" />
+  <img src="https://leetcard.jacoblin.cool/arin_dhimar?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats" width="100%"/>
 </div>
 
----
-
-### 🏆 Coding Profiles
+</details>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/arin_dhimar?theme=nord&font=Exo" alt="LeetCode Stats" />
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=arindhimar" alt="GeeksForGeeks stats" />
-</div>
+  <h2>🤝 Let's Connect and Code Together!</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arin-dhimar/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arindhimar)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arin_dhimar_/)
 
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arin-dhimar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/arindhimar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.instagram.com/arin_dhimar_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arindhimar&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
