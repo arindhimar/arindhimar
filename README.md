@@ -136,29 +136,17 @@
 
 <p align="center">
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindhimar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="61%" src="https://github-readme-streak-stats.herokuapp.com/?user=arindhimar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="center">🏆 Coding Achievements</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/arin_dhimar?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats" width="75%"/>
+<a href="https://www.geeksforgeeks.org/user/arin_dhimar_/">
+  <img src="https://gfgstatscard.vercel.app/arin_dhimar_" alt="GFG stats" />
+</a>
 </p>
 
-<h2 align="center">🌟 Skill Proficiency</h2>
 
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| JavaScript | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-90.svg) |
-| Python | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-85.svg) |
-| React | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-80.svg) |
-| Node.js | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-75.svg) |
-| MongoDB | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-70.svg) |
-| Flask | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-65.svg) |
-
-</div>
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
