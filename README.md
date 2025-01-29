@@ -148,15 +148,15 @@
 <h2 align="center">🌟 Skill Proficiency</h2>
 
 <div align="center">
-  
+
 | Skill | Proficiency |
 |-------|-------------|
-| JavaScript | ![](https://progress-bar.dev/90/?width=500) |
-| Python | ![](https://progress-bar.dev/85/?width=500) |
-| React | ![](https://progress-bar.dev/80/?width=500) |
-| Node.js | ![](https://progress-bar.dev/75/?width=500) |
-| MongoDB | ![](https://progress-bar.dev/70/?width=500) |
-| Flask | ![](https://progress-bar.dev/65/?width=500) |
+| JavaScript | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-90.svg) |
+| Python | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-85.svg) |
+| React | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-80.svg) |
+| Node.js | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-75.svg) |
+| MongoDB | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-70.svg) |
+| Flask | ![](https://raw.githubusercontent.com/arindhimar/arindhimar/main/assets/progress-bar-65.svg) |
 
 </div>
 
