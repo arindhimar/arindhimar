@@ -144,6 +144,7 @@
 <a href="https://www.geeksforgeeks.org/user/arin_dhimar_/">
   <img src="https://gfgstatscard.vercel.app/arin_dhimar_" alt="GFG stats" />
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindhimar&theme=alduin" alt="sanvviratthore" /></a>
 </p>
 
 
