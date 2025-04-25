@@ -1,16 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:3494E6,100:EC6EAD&height=150&section=header&text=Arin%20Dhimar&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%">
-</div>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3494E6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Innovation+Enthusiast;Code+Artisan;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Mastery&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=react,react,61DAFB;node.js,node.js,339933;python,python,3776AB;&line2=javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;&line3=mongodb,mongodb,47A248;git,git,F05032;flask,flask,000000;" alt="Tech Stack" />
-</div>
 
 <br>
 
